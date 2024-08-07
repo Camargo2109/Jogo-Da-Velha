@@ -1,3 +1,10 @@
 //Configurar o Git Local:
 git config --global user.name "Arthur Camargo"
 git config --global user.email arthur.barrabonita@gmail.com
+
+
+npx expo start
+
+Depois que rodar aperta aperta
+
+npx expo start --localhost --android
